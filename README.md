@@ -25,4 +25,4 @@ Hello — I’m Hafsa, a self-taught data scientist focusing on EDA, machine lea
 2. Install dependencies: pip install -r requirements.txt
 3. Launch Jupyter: jupyter lab or jupyter notebook
 
-Contact: hafsa@email.com
+Contact: motiwala603@gmail.com
