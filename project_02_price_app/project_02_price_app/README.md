@@ -4,7 +4,8 @@ This project is a machine learning application that predicts house prices using 
 
 Key highlights:  
 - **Model:** XGBoost Regressor (log-transformed SalePrice)  
-- **Performance:** RMSE ≈ 0.13 — a strong baseline; further hyperparameter tuning and feature engineering could improve accuracy  
+- **Performance:** RMSE ≈ 0.13 — a strong baseline;
+-  “With an estimated 86–87% alignment to actual prices, the model delivers strong predictive perfomance further hyperparameter tuning and feature engineering could improve accuracy  
 - **Data Exploration:** Comprehensive EDA to understand trends, correlations, and feature importance  
 - **Interactive Interface:** Stepwise user input with live prediction and informative notes  
 - **Purpose:** Portfolio-grade demonstration of ML modeling, preprocessing, and deployment  
