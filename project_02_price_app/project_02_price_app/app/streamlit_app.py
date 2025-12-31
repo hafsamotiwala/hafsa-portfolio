@@ -3,9 +3,9 @@ import pandas as pd
 import numpy as np
 import joblib
 
-# -------------------------------
+# ------------------------------
 # Page Configuration
-# -------------------------------
+# ------------------------------
 st.set_page_config(
     page_title="House Price Estimator",
     layout="centered",
