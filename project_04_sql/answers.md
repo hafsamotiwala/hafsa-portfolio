@@ -144,9 +144,15 @@ Consider monitoring high-ticket items separately to ensure discounts don’t ero
 ### Q20: Seasonal Sales Patterns by Month & Category
 
 **Insight:**
-Furniture: Peaks in Mar & Jun; loss observed in Mar → review pricing/inventory.
+Furniture:Peaks in Mar & Jun; loss observed in Mar → review pricing/inventory.
+
+
 Office Supplies: Steady with spikes Apr & Jun; dip in Jul → adjust stock/discounts.
+
+
 Technology: Peaks Mar & Apr; consistently profitable → focus promotions during high-demand months.
+
+
 Suggestion: Plan inventory & marketing according to seasonal peaks and address months with losses.
 
 
