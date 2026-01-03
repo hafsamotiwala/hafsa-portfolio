@@ -109,6 +109,17 @@ FROM (
 WHERE `Customer Name` IN ('Sean Miller','Tamara Chand','Raymond Buch')
 ORDER BY `Customer Name`, order_date_parsed;
 
+### Q13: Shipping Mode Impact on Profitability
+SELECT
+    `Ship Mode`,
+    COUNT(DISTINCT `Order ID`) AS Total_Orders,
+    ROUND(SUM(Sales), 2) AS Total_Sales,
+    ROUND(SUM(Profit), 2) AS Total_Profit,
+    ROUND(SUM(Profit) / COUNT(DISTINCT `Order ID`), 2) AS Avg_Profit_per_Order
+FROM orders
+GROUP BY `Ship Mode`
+ORDER BY Total_Profit ASC;
+
 ### Q14: Inventory Reorder Suggestion
 SELECT 
     `Product Name`,
@@ -193,6 +204,7 @@ FROM orders
 GROUP BY Category, month
 ORDER BY month, total_sales DESC
 LIMIT 20;
+
 
 
 
