@@ -95,6 +95,11 @@ For example, Sean Miller's purchases span multiple years, gradually increasing h
 Multiple rows for the same date indicate **multiple items purchased in a single order**.  
 This analysis helps identify high-value customers and understand **their purchasing patterns and growth over time**.
 
+### Q13: Shipping Mode Impact on Profitability
+
+**Insights:**
+The analysis shows that while **Standard Class** handles the highest number of orders (2,945) and generates the largest total sales ($1.34M), its profit margin is the lowest at **54.85%**, suggesting that high volume comes with thinner margins. **Second Class** and **First Class** provide better balance between sales and profitability, with margins around **59–63%**. **Same Day** shipping has the highest margin (**61.87%**) but very low order volume (259), indicating it’s premium but less scalable. Businesses could optimize profitability by promoting faster shipping options for high-value customers while managing cost efficiencies in Standard Class orders.
+
 ### Q14: Inventory Reorder Suggestion
 
 **Insight:**
