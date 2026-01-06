@@ -30,7 +30,7 @@ I am an **entry-level Data Scientist**, passionate about applying analytics in b
 
 ## Resume
 
-My **resume** is available in PDF format in this folder: [resume/resume.pdf](./resume/resume.pdf).  
+My **resume** is available here: [resume.pdf](./resume.pdf)  
 
 **Note:** To access all clickable links (LinkedIn, GitHub, Medium, project links), please **download the PDF**.
 
