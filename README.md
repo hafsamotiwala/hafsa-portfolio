@@ -30,7 +30,7 @@ I am an **entry-level Data Scientist**, passionate about applying analytics in b
 
 ## Resume
 
-My **resume** is available here:[View My Resume](RESUME%20(2).pdf)
+My **resume** is available here:[View My Resume](HAFSA%20MOTIWALA_resume.pdf)
  
 
 **Note:** To access all clickable links (LinkedIn, GitHub, Medium, project links), please **download the PDF**.
